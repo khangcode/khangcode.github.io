@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOTTE Finance Legal :: LFVN Legal</title>
+    <link>/index.html</link>
+    <description>Phòng Pháp chế LOTTE Finance là bộ phận chịu trách nhiệm tư vấn pháp lý, rà soát pháp lý các văn bản nội bộ, hợp đồng, hỗ trợ xử lý tranh chấp, bảo vệ quyền lợi pháp lý và giảm thiểu rủi ro pháp lý trong hoạt động kinh doanh.&#xA;Phòng Pháp chế LOTTE Finance còn đóng vai trò kiến tạo môi trường, cơ chế, giải pháp, phương án thực hiện tối ưu. Phòng Pháp chế chủ động nghiên cứu, đề xuất các cải tiến, xây dựng quy trình và khung pháp lý phù hợp với thực tiễn kinh doanh, góp phần thúc đẩy sự đổi mới.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internal Regulations</title>
+      <link>/internal_regulations/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/internal_regulations/index.html</guid>
+      <description>This is a new chapter of Internal Regulations.</description>
+    </item>
+    <item>
+      <title>Contracts</title>
+      <link>/contracts/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contracts/index.html</guid>
+      <description>This is a new chapter of contract.&#xA;Điều khoản tiêu chuẩn Cam đoan và bảo đảm Bất khả kháng Phạt vi phạm và bồi thường thiệt hại Thời hạn hiệu lực Giải quyết tranh chấp Các loại Hợp đồng Hợp đồng mua bán hàng hóa Hợp đồng dịch vụ Hợp đồng tín dụng Hợp đồng thế chấp Hợp đồng tiền gửi Hợp đồng phần mềm Mẫu Hợp đồng Mẫu Thỏa thuận bảo mật (NDA) Mẫu Hợp đồng cho vay Mẫu Hợp đồng thế chấp động sản Mẫu Hợp đồng thế chấp bất động sản</description>
+    </item>
+    <item>
+      <title>Legal Advices</title>
+      <link>/legal-advices/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/legal-advices/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Legal Docs</title>
+      <link>/legal-docs/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/legal-docs/index.html</guid>
+      <description>This is a new chapter.&#xA;Các văn bản pháp luật thông dụng&#xA;Chung Luật các tổ chức tín dụng 2024 tvpl&#xD;Luật doanh nghiệp 2020 tvpl&#xD;Bộ luật dân sự 2015 tvpl&#xD;Cho vay Thông tư Thẻ tín dụng Thông tư 18/2024/TT-NHNN về hoạt động thẻ ngân hàng pdf&#xD;tvpl&#xD;Giao dịch bảo đảm Nguồn vốn</description>
+    </item>
+  </channel>
+</rss>

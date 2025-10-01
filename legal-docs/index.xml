@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal Docs :: LFVN Legal</title>
+    <link>/legal-docs/index.html</link>
+    <description>This is a new chapter.&#xA;Các văn bản pháp luật thông dụng&#xA;Chung Luật các tổ chức tín dụng 2024 tvpl&#xD;Luật doanh nghiệp 2020 tvpl&#xD;Bộ luật dân sự 2015 tvpl&#xD;Cho vay Thông tư Thẻ tín dụng Thông tư 18/2024/TT-NHNN về hoạt động thẻ ngân hàng pdf&#xD;tvpl&#xD;Giao dịch bảo đảm Nguồn vốn</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/legal-docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Image</title>
+      <link>/legal-docs/test/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/legal-docs/test/index.html</guid>
+      <description>UBND TP HCM đề xuất, với những người nghỉ hưu trước tuổi, ngoài chính sách hưởng theo Điều 5 Nghị định 29 sẽ được trợ cấp 3 tháng lương cho mỗi năm nghỉ hưu trước tuổi; 5 tháng lương cho 20 năm đầu công tác.&#xA;Từ năm thứ 21 trở đi, cứ mỗi năm công tác người lao động nhận thêm nửa tháng lương. Cán bộ, công chức cấp xã phải nghỉ việc do sắp xếp đơn vị hành chính ngoài chế độ theo khoản 1 Điều 8 Nghị định 29, UBND HCM đề xuất trợ cấp thêm 1,5 tháng lương cho mỗi năm nghỉ hưu trước tuổi, 5 tháng lương cho 20 năm đầu công tác; từ năm thứ 21 trở đi, cứ mỗi năm công tác được cấp thêm nửa tháng lương.</description>
+    </item>
+    <item>
+      <title>Test mermaid</title>
+      <link>/legal-docs/mermaid/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/legal-docs/mermaid/index.html</guid>
+      <description>Test mermaid:&#xA;graph LR;&#xD;A[Hard edge] --&gt;|Link text| B(Round edge)&#xD;B --&gt; C{Decision}&#xD;C --&gt;|One| D[Result one]&#xD;C --&gt;|Two| E[Result two]&#xD;sequenceDiagram&#xD;participant Alice&#xD;participant Bob&#xD;Alice-&gt;&gt;John: Hello John, how are you?&#xD;loop Healthcheck&#xD;John-&gt;John: Fight against hypochondria&#xD;end&#xD;Note right of John: Rational thoughts &lt;br/&gt;prevail...&#xD;John--&gt;Alice: Great!&#xD;John-&gt;Bob: How about you?&#xD;Bob--&gt;John: Jolly good!&#xD;mindmap&#xD;root((mindmap))&#xD;Origins&#xD;Long history&#xD;::icon(fa fa-book)&#xD;Popularisation&#xD;British popular psychology author Tony Buzan&#xD;Research&#xD;On effectiveness&lt;br/&gt;and features&#xD;On Automatic creation&#xD;Uses&#xD;Creative techniques&#xD;Strategic planning&#xD;Argument mapping&#xD;Tools&#xD;Pen and paper&#xD;Mermaid&#xD;Dung Hugo Blox</description>
+    </item>
+  </channel>
+</rss>

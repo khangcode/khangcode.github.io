@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contracts :: LFVN Legal</title>
+    <link>/contracts/index.html</link>
+    <description>This is a new chapter of contract.&#xA;Điều khoản tiêu chuẩn Cam đoan và bảo đảm Bất khả kháng Phạt vi phạm và bồi thường thiệt hại Thời hạn hiệu lực Giải quyết tranh chấp Các loại Hợp đồng Hợp đồng mua bán hàng hóa Hợp đồng dịch vụ Hợp đồng tín dụng Hợp đồng thế chấp Hợp đồng tiền gửi Hợp đồng phần mềm Mẫu Hợp đồng Mẫu Thỏa thuận bảo mật (NDA) Mẫu Hợp đồng cho vay Mẫu Hợp đồng thế chấp động sản Mẫu Hợp đồng thế chấp bất động sản</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/contracts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
